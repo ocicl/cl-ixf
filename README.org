@@ -5,5 +5,5 @@ Parse IBM IXF file format.
 |---------+-------------------------------------------|
 | source  | git:https://github.com/dimitri/cl-ixf.git |
 | commit  | ed26f87                                   |
-| systems | (ixf)                                     |
+| systems | ixf                                       |
 |---------+-------------------------------------------|
